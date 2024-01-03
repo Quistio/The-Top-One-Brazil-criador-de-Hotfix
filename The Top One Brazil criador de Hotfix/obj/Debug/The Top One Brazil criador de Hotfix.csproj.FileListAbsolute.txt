@@ -1,0 +1,33 @@
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.exe.config
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.exe
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.pdb
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.AssemblyReference.cache
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.SuggestedBindingRedirects.cache
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.Properties.Resources.resources
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.GenerateResource.cache
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.CoreCompileInputs.cache
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.exe
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.pdb
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.Main.resources
+C:\Users\cristian.borges\source\repos\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.Configuracao.resources
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.exe.config
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.exe
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.pdb
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.AssemblyReference.cache
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.SuggestedBindingRedirects.cache
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.Configuracao.resources
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.Main.resources
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.Properties.Resources.resources
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.GenerateResource.cache
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.CoreCompileInputs.cache
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.exe
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.pdb
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.exe.manifest
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\The Top One Brazil criador de Hotfix.application
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.exe.manifest
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.application
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The_Top_One_Brazil_criador_de_Hotfix.ListaArquivos.resources
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\DotNetZip.dll
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\DotNetZip.pdb
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\bin\Debug\DotNetZip.xml
+C:\Users\cristian.borges\Desktop\The Top One Brazil criador de Hotfix\The Top One Brazil criador de Hotfix\obj\Debug\The Top One Brazil criador de Hotfix.csproj.CopyComplete
